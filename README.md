@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm zoha</h1>
 <h3 align="center">A passionat web developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7151b11e-2fcc-4b3f-86fa-2ccf2e67512a/dggaoc8-ad05a10a-cf70-4f17-87af-2ffeeeaf6ba7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxNTFiMTFlLTJmY2MtNGIzZi04NmZhLTJjY2YyZTY3NTEyYVwvZGdnYW9jOC1hZDA1YTEwYS1jZjcwLTRmMTctODdhZi0yZmZlZWVhZjZiYTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0qdcjKthfl33339x5-JMMtYbJ2QFzSj14F-ZFlyWwGE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohasidd&label=Profile%20views&color=0e75b6&style=flat" alt="zohasidd" /> </p>
 
